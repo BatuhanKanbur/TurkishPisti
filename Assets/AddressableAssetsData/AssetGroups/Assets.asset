@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 543bca2d6895a2d4ba6a4acefef469e0
+  m_SerializeEntries:
+  - m_GUID: 118e81e77ca92494093229d60d08cc39
+    m_Address: Playing_Cards
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Playing_Cards
+  - m_GUID: 8071c1a0e0172e949a3b121c3217d541
+    m_Address: Card_Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c272ab65a3650da4fb81c6e9255efa61, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 98c43684ed2c6344f8d1af9f93c31327, type: 2}
+    - {fileID: 11400000, guid: a020899c627a9114aba54f89c0050415, type: 2}
